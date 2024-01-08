@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "EmpId": "1",
+      "empName": "Kavi",
+      "empEmail": "kavi@gmail.com",
+      "empDesg": "manager",
+      "empImg": "https://cdn-icons-png.flaticon.com/512/4974/4974985.png",
+      "id": 1
+    },
+    {
+      "EmpId": "2",
+      "empName": "fathima",
+      "empEmail": "fathima@gmail.com",
+      "empDesg": "HR",
+      "empImg": "https://png.pngtree.com/png-vector/20220523/ourmid/pngtree-female-employee-working-at-the-company-png-image_4719739.png",
+      "id": 2
+    },
+    {
+      "EmpId": "3",
+      "empName": "Jenni",
+      "empEmail": "jenni@gmail.com",
+      "empDesg": "UI/UX",
+      "empImg": "https://img.freepik.com/free-photo/portrait-happy-woman-with-digital-tablet_329181-11681.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1704499200&semt=ais",
+      "id": 3
+    },
+    {
+      "EmpId": "4",
+      "empName": "Thomas",
+      "empEmail": "thomas@gmail.com",
+      "empDesg": "react developer",
+      "empImg": "https://cdn-icons-png.flaticon.com/512/1869/1869679.png",
+      "id": 4
+    },
+    {
+      "EmpId": "6",
+      "empName": "Vijay",
+      "empEmail": "vijay@gmail.com",
+      "empDesg": "accountant",
+      "empImg": "https://cdn-icons-png.flaticon.com/512/912/912214.png",
+      "id": 5
+    }
+  ]
+}
